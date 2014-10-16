@@ -2,13 +2,15 @@
 # Improving a peice of code
 #16/10/14
 
+#shortened version
 total = 0
 
 for number in range(8):
     number = int(input("Enter a number: "))
     total = total + number
 print(total)
-    
+
+#long version
 num1 = int(input('Enter number 1 : ' ))
 num2 = int(input('Enter number 2 : ' ))
 num3 = int(input('Enter number 3 : ' ))

@@ -1,5 +1,5 @@
 #Jarod Pierre Murton
-#Development Exercise Iteration
+#Development exercise iteration
 #16/10/14
 
 total = 1

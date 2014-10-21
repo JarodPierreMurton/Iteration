@@ -2,13 +2,16 @@
 #Development exercise iteration
 #16/10/14
 
-total = 0
+total = 1
 number = int(input("Please enter a number: "))
-number_2 = number - 1
 
-for count in range(number):
-    total = number * number_2
+
+for count in range (1,number+1):
+    total = total * number
     number = number - 1
-    number_2 = number_2 - 1
-    if number > 0:
-            print(total)
+
+print(total)
+
+            
+
+
